@@ -1,0 +1,90 @@
+body {
+	background:#e0ffff;
+	color : #000000;
+}
+
+ h3 {
+	background : #add8e6;
+	text-align: center;
+	text-shadow: 3px 3px 1px white;
+	width: 50%;
+	border:4px double #000000 ;
+    text-align: center;
+	font-size: 50px
+}
+
+h4 {
+	
+	font-size: 33px
+}
+   div p {
+   	text-shadow: 2px 2px 1px white;
+	background : #add8e6;
+	width: 80%;
+	border:5px outset ;
+}
+p {
+	background: #ba55d3;
+	font: oblique bold 120% cursiv;	
+	text-align: center;
+}
+  
+a {
+	text-decoration: none;
+	display: block;
+}
+ul li {
+	background: #e0ffff;
+	width: 30%;
+	
+}
+pre {
+    font: oblique bold 120% cursiv;
+    
+
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+/* Insta */
+.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+/*ul li {
+ display: inline;
+ font-family: Arial;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #2175bc;
+ color: #fff;
+ }*/
+ 
+
